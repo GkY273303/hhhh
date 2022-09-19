@@ -1,4 +1,4 @@
-## Build an Image Search Web App using the Unsplash API and ReactJs to get access to its enormous collection of images.
+### Build an Image Search Web App using the Unsplash API and ReactJs to get access to its enormous collection of images.
 
 
 # `Image Search Web App`
